@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+backups/
+outputs/
+*.tmp.xlsx
+SrcImages/
+guest-hunting.xlsx
+~$*.xlsx
+research-batch-*.json
+.hunt.lock
+scripts/run_2026_10_27.mjs
+scripts/verify_run_layout.mjs
